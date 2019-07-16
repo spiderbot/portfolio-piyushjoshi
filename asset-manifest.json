@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio-piyushjoshi/static/css/main.2cce8147.chunk.css",
+    "main.js": "/portfolio-piyushjoshi/static/js/main.69946b78.chunk.js",
+    "main.js.map": "/portfolio-piyushjoshi/static/js/main.69946b78.chunk.js.map",
+    "runtime~main.js": "/portfolio-piyushjoshi/static/js/runtime~main.8a2157d9.js",
+    "runtime~main.js.map": "/portfolio-piyushjoshi/static/js/runtime~main.8a2157d9.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/portfolio-piyushjoshi/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/portfolio-piyushjoshi/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/portfolio-piyushjoshi/index.html",
+    "precache-manifest.f8a5d61042ec793b8b6a314f33f26d00.js": "/portfolio-piyushjoshi/precache-manifest.f8a5d61042ec793b8b6a314f33f26d00.js",
+    "service-worker.js": "/portfolio-piyushjoshi/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/portfolio-piyushjoshi/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/portfolio-piyushjoshi/static/media/logo.5d5d9eef.svg"
+  }
+}
