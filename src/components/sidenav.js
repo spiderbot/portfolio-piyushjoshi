@@ -7,8 +7,8 @@ const SideNav = (props) => {
             <aside id="colorlib-aside" role="complementary" class="border js-fullheight">
             <div class="text-center">
                 <div class="author-img" style={{backgroundImage: 'url(images/profilepic.jpeg)'}}></div>
-                <h1 id="colorlib-logo"><a href="index.html">Jackson Ford</a></h1>
-                <span class="position"><a href="#">UI/UX/Designer</a> in Philippines</span>
+                <h1 id="colorlib-logo"><a href="index.html">Piyush Joshi</a></h1>
+                <span class="position"><a href="#">Software Engineer</a> in India</span>
             </div>
             <nav id="colorlib-main-menu" role="navigation" class="navbar">
                 <div id="navbar" class="collapse">
@@ -25,7 +25,10 @@ const SideNav = (props) => {
                     </ul>
                 </div>
             </nav>
-
+            <div>
+                <p>Website designed and developed in ReactJS</p>
+            </div>
+            <div style={{display:'none'}}>
             <div class="colorlib-footer">
                 <p><small>&copy;
 Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
@@ -37,7 +40,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
                     <li><a href="#"><i class="icon-linkedin2"></i></a></li>
                 </ul>
             </div>
-
+            </div>
         </aside>
         </div>
     );

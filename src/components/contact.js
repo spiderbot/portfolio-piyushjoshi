@@ -18,7 +18,7 @@ class Contact extends Component{
                                     <i class="icon-globe-outline"></i>
                                 </div>
                                 <div class="colorlib-text">
-                                    <p><a href="#">info@domain.com</a></p>
+                                    <p><a href="#">joshipiyush217@gmail.com</a></p>
                                 </div>
                             </div>
 
@@ -27,7 +27,7 @@ class Contact extends Component{
                                     <i class="icon-map"></i>
                                 </div>
                                 <div class="colorlib-text">
-                                    <p>198 West 21th Street, Suite 721 New York NY 10016</p>
+                                    <p>G-80, RWA Society, Noida , Uttar Pradesh 201301</p>
                                 </div>
                             </div>
 
@@ -36,7 +36,7 @@ class Contact extends Component{
                                     <i class="icon-phone"></i>
                                 </div>
                                 <div class="colorlib-text">
-                                    <p><a href="tel://">+123 456 7890</a></p>
+                                    <p><a href="tel://">+7895761052</a></p>
                                 </div>
                             </div>
                         </div>

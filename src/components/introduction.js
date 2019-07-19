@@ -28,7 +28,7 @@ class Introduction extends Component{
                                     <div class="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                                         <div class="slider-text-inner">
                                             <div class="desc">
-                                                <h1>I am <br/>a Designer</h1>
+                                                <h1>A<br/>Software Designer and Developer</h1>
                                                 <p><a class="btn btn-primary btn-learn">View Portfolio <i class="icon-briefcase3"></i></a></p>
                                             </div>
                                         </div>

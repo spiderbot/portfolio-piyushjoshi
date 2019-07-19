@@ -22,8 +22,8 @@ class Experience extends Component{
                                     </div>
 
                                     <div class="timeline-label">
-                                        <h2><a href="#">Full Stack Developer</a> <span>2017-2018</span></h2>
-                                        <p>Tolerably earnestly middleton extremely distrusts she boy now not. Add and offered prepare how cordial two promise. Greatly who affixed suppose but enquire compact prepare all put. Added forth chief trees but rooms think may.</p>
+                                        <h2><a href="#">Java Developer (Times Internet)</a> <span>Jan 2019-Present</span></h2>
+                                        <p>As a member of PD Team Designed and Developed Backend of ET Prime, a premium section of economictimes.com. Worked in various technologies such as Spring , Mongo, Redis. Solved issues reported in live environment with providing support to QC Team.</p>
                                     </div>
                                 </div>
                             </article>
@@ -34,8 +34,9 @@ class Experience extends Component{
                                         <i class="icon-pen2"></i>
                                     </div>
                                     <div class="timeline-label">
-                                        <h2><a href="#">Front End Developer at Google Company</a> <span>2017-2018</span></h2>
-                                        <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+                                        <h2><a href="#">Senior Software Engineer (Drishti-Soft Solutions)</a> <span>10/2017 – 12/2018</span></h2>
+                                        <p>As a member of PD (Product Development) Team, Designed and Developed many complex modules and features mostly from scratch with good quality while adhering to the timelines. Took part in code reviews, design reviews and provided training to members in the team.
+</p><p>As a member of PD Team, solved critical customer issues. Helped maintain the issues backlog count low and had direct communication with customers.</p>
                                     </div>
                                 </div>
                             </article>
@@ -46,8 +47,7 @@ class Experience extends Component{
                                         <i class="icon-pen2"></i>
                                     </div>
                                     <div class="timeline-label">
-                                        <h2><a href="#">System Analyst</a> <span>2017-2018</span></h2>
-                                        <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+                                        <h2><a href="#">Software Engineer (Drishti-Soft Solutions)</a> <span>12/2015 – 10/2015</span></h2>
                                     </div>
                                 </div>
                             </article>
@@ -58,27 +58,7 @@ class Experience extends Component{
                                         <i class="icon-pen2"></i>
                                     </div>
                                     <div class="timeline-label">
-                                        <h2><a href="#">Creative Designer</a> <span>2017-2018</span></h2>
-                                        <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-                                    </div>
-                                </div>
-                            </article>
-
-                            <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
-                                <div class="timeline-entry-inner">
-                                    <div class="timeline-icon color-5">
-                                        <i class="icon-pen2"></i>
-                                    </div>
-                                    <div class="timeline-label">
-                                        <h2><a href="#">UI/UX Designer at Envato</a> <span>2017-2018</span></h2>
-                                        <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-                                    </div>
-                                </div>
-                            </article>
-
-                            <article class="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
-                                <div class="timeline-entry-inner">
-                                    <div class="timeline-icon color-none">
+                                        <h2><a href="#">Assistant System Engineer (Tata Consultancy Services)</a> <span>07/2015 – 12/2015</span></h2>
                                     </div>
                                 </div>
                             </article>

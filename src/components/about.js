@@ -9,30 +9,30 @@ class About extends Component{
                             <div class="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                                 <div class="col-md-12">
                                     <div class="about-desc">
-                                        <span class="heading-meta">About Us</span>
+                                        <span class="heading-meta">About Me</span>
                                         <h2 class="colorlib-heading">Who Am I?</h2>
-                                        <p><strong>Hi I'm Jackson Ford</strong> On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word "and" and the Little Blind Text should turn around and return to its own, safe country.</p>
-                                        <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+                                        <p><strong>Hi I'm Piyush Joshi</strong>A Software Design, Algorithm Development and Agile Process Enthusiast with around 4 years of experience in Software Development Lifecycle and Freelancing</p>
+                                        <p>My aim is to fulfill the requirements of any person , group or institution by creating innovative and effective solutions</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="row">
-                                <div class="col-md-3 animate-box" data-animate-effect="fadeInLeft">
-                                    <div class="services color-1">
-                                        <span class="icon2"><i class="icon-bulb"></i></span>
-                                        <h3>Graphic Design</h3>
-                                    </div>
-                                </div>
                                 <div class="col-md-3 animate-box" data-animate-effect="fadeInRight">
                                     <div class="services color-2">
                                         <span class="icon2"><i class="icon-globe-outline"></i></span>
-                                        <h3>Web Design</h3>
+                                        <h3>Frontend Design and Development</h3>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 animate-box" data-animate-effect="fadeInLeft">
+                                    <div class="services color-1">
+                                        <span class="icon2"><i class="icon-bulb"></i></span>
+                                        <h3>Web Services Design and Development</h3>
                                     </div>
                                 </div>
                                 <div class="col-md-3 animate-box" data-animate-effect="fadeInTop">
                                     <div class="services color-3">
                                         <span class="icon2"><i class="icon-data"></i></span>
-                                        <h3>Software</h3>
+                                        <h3>Full Stack Software Development</h3>
                                     </div>
                                 </div>
                                 <div class="col-md-3 animate-box" data-animate-effect="fadeInBottom">
@@ -45,7 +45,7 @@ class About extends Component{
                             <div class="row">
                                 <div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
                                     <div class="hire">
-                                        <h2>I am happy to know you <br/>that 300+ projects done sucessfully!</h2>
+                                        <h2>I am happy to let you know know <br/>that 15+ projects have been completed sucessfully!</h2>
                                         <a href="#" class="btn-hire">Hire me</a>
                                     </div>
                                 </div>

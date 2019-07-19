@@ -13,14 +13,14 @@ class Skills extends Component{
                     </div>
                     <div class="row">
                         <div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
-                            <p>The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.</p>
+                        <p>The best yardstick for our progress is not other people, but ourselves. Am I better than I was yesterday? This is the only question worth asking. As long as you go to bed at night a better practitioner than the one who woke up that morning, you have succeeded. Your worth should have nothing to do with how your progress stacks up relative to another.</p>
                         </div>
                         <div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
                             <div class="progress-wrap">
-                                <h3>Photoshop</h3>
+                                <h3>Java Web Development</h3>
                                 <div class="progress">
-                                    <div class="progress-bar color-1" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style={{width:"75%"}}>
-                                        <span>75%</span>
+                                    <div class="progress-bar color-1" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style={{width:"80%"}}>
+                                        <span>80%</span>
                                     </div>
                                 </div>
                             </div>
