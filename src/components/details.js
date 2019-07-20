@@ -15,10 +15,9 @@ class UserDetails extends Component{
             <div id="colorlib-main">
             <Introduction/>
             <About/>
-            <Services/>
-            <Extra/>
+            {/*<Services/>
+            <Extra/>*/}
             <Skills/>
-            <Work/>
             <Experience/>
             <Education/>
             <Blog/>

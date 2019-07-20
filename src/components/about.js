@@ -11,7 +11,7 @@ class About extends Component{
                                     <div class="about-desc">
                                         <span class="heading-meta">About Me</span>
                                         <h2 class="colorlib-heading">Who Am I?</h2>
-                                        <p><strong>Hi I'm Piyush Joshi</strong>A Software Design, Algorithm Development and Agile Process Enthusiast with around 4 years of experience in Software Development Lifecycle and Freelancing</p>
+                                        <p>Hi I'm <strong> <a href="https://github.com/spiderbot" target="_blank">Piyush Joshi</a></strong> A Software Design, Algorithm Development and Agile Process Enthusiast with around 4 years of experience in Software Development Lifecycle and Freelancing</p>
                                         <p>My aim is to fulfill the requirements of any person , group or institution by creating innovative and effective solutions</p>
                                     </div>
                                 </div>
@@ -46,7 +46,7 @@ class About extends Component{
                                 <div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
                                     <div class="hire">
                                         <h2>I am happy to let you know know <br/>that 15+ projects have been completed sucessfully!</h2>
-                                        <a href="#" class="btn-hire">Hire me</a>
+                                        <a href="https://www.gmail.com" target="_blank" class="btn-hire">Hire me</a>
                                     </div>
                                 </div>
                             </div>

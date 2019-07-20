@@ -8,25 +8,23 @@ const SideNav = (props) => {
             <div class="text-center">
                 <div class="author-img" style={{backgroundImage: 'url(images/profilepic.jpeg)'}}></div>
                 <h1 id="colorlib-logo"><a href="index.html">Piyush Joshi</a></h1>
-                <span class="position"><a href="#">Software Engineer</a> in India</span>
+                <span class="position"><a href="#">Full Stack Software Engineer</a> in India</span>
             </div>
             <nav id="colorlib-main-menu" role="navigation" class="navbar">
                 <div id="navbar" class="collapse">
                     <ul>
                         <li class="active"><a href="#" data-nav-section="home">Home</a></li>
                         <li><a href="#" data-nav-section="about">About</a></li>
-                        <li><a href="#" data-nav-section="services">Services</a></li>
                         <li><a href="#" data-nav-section="skills">Skills</a></li>
-                        <li><a href="#" data-nav-section="education">Education</a></li>
                         <li><a href="#" data-nav-section="experience">Experience</a></li>
-                        <li><a href="#" data-nav-section="work">Work</a></li>
+                        <li><a href="#" data-nav-section="education">Education</a></li>
                         <li><a href="#" data-nav-section="blog">Blog</a></li>
                         <li><a href="#" data-nav-section="contact">Contact</a></li>
                     </ul>
                 </div>
             </nav>
             <div>
-                <p>Website designed and developed in ReactJS</p>
+                <p>Website designed and developed in ReactJS by <a href="https://github.com/spiderbot" target="_blank">@piyushjoshi</a></p>
             </div>
             <div style={{display:'none'}}>
             <div class="colorlib-footer">

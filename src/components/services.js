@@ -6,7 +6,7 @@ class Services extends Component{
             <section class="colorlib-services" data-section="services">
                 <div class="colorlib-narrow-content">
                     <div class="row">
-                        <div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+                        <div class="col-md-6 col-md-offset-3 animate-box" data-animate-effect="fadeInLeft">
                             <span class="heading-meta">What I do?</span>
                             <h2 class="colorlib-heading">Here are some of my expertise</h2>
                         </div>

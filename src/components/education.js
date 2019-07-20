@@ -6,7 +6,7 @@ class Education extends Component{
             <section class="colorlib-education" data-section="education">
                 <div class="colorlib-narrow-content">
                     <div class="row">
-                        <div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+                        <div class="col-md-6 col-md-offset-3  animate-box" data-animate-effect="fadeInLeft">
                             <h2 class="colorlib-heading animate-box">Education</h2>
                         </div>
                     </div>
@@ -17,7 +17,7 @@ class Education extends Component{
                                     <div class="panel panel-default">
                                         <div class="panel-heading" role="tab" id="headingOne">
                                             <h4 class="panel-title">
-									            <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Bachelor of Technology (Computer Science and Engineering)
+									            <a style={{backgroundColor:"#2c98f0"}} data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Bachelor of Technology (Computer Science and Engineering)
 									            </a>
 									        </h4>
                                         </div>
@@ -34,11 +34,11 @@ class Education extends Component{
                                     <div class="panel panel-default">
                                         <div class="panel-heading" role="tab" id="headingTwo">
                                             <h4 class="panel-title">
-									            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Intermediate
+									            <a style={{backgroundColor:"#2c98f0"}} class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">Intermediate
 									            </a>
 									        </h4>
                                         </div>
-                                        <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+                                        <div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
                                             <div class="panel-body">
                                             <p>Intermediate with distinction with 77 percentage from Uttarakhand Board of Education</p>                
                                             </div>
@@ -47,11 +47,11 @@ class Education extends Component{
                                     <div class="panel panel-default">
                                         <div class="panel-heading" role="tab" id="headingThree">
                                             <h4 class="panel-title">
-									            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">High School
+									            <a style={{backgroundColor:"#2c98f0"}} class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="true" aria-controls="collapseThree">High School
 									            </a>
 									        </h4>
                                         </div>
-                                        <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+                                        <div id="collapseThree" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingThree">
                                             <div class="panel-body">
                                             <p>High School with distinction with 81 percentage from Uttarakhand Board of Education</p>                
                                             </div>

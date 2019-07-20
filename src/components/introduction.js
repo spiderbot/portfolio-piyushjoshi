@@ -14,7 +14,7 @@ class Introduction extends Component{
                                         <div class="slider-text-inner js-fullheight">
                                             <div class="desc">
                                                 <h1>Hi! <br/>I'm Piyush</h1>
-                                                <p><a class="btn btn-primary btn-learn">Download CV <i class="icon-download4"></i></a></p>
+                                                <p><a class="btn btn-primary btn-learn" target="_blank" href="https://github.com/spiderbot/Resume-PiyushJoshi/blob/master/Piyush's%20Resume%20(4)%20(1).pdf">Download CV <i class="icon-download4"></i></a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -29,7 +29,7 @@ class Introduction extends Component{
                                         <div class="slider-text-inner">
                                             <div class="desc">
                                                 <h1>A<br/>Software Designer and Developer</h1>
-                                                <p><a class="btn btn-primary btn-learn">View Portfolio <i class="icon-briefcase3"></i></a></p>
+                                                <p><a class="btn btn-primary btn-learn" href="#" data-nav-section="skills">View Portfolio <i class="icon-briefcase3"></i></a></p>
                                             </div>
                                         </div>
                                     </div>
