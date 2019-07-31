@@ -251,7 +251,6 @@
 				$("#sticky_item").trigger("sticky_kit:detach");
 			} else {
 				$('.sticky-parent').removeClass('stick-detach');
-
 				$("#sticky_item").trigger("sticky_kit:detach");
 				$("#sticky_item").trigger("sticky_kit:unstick");
 
